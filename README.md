@@ -1,16 +1,28 @@
-## Hi there 👋
-
-<!--
-**egelykink/egelykink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Tere! 👋 Mina olen Egely Kink
+ 
+## 🎯 Andmeanalüütiku Karjääri Algus
+ 
+Õpin hetkel **DACA (Data Analyst Career Accelerator)** programmis ja ehitan oma esimest professionaalset portfooliot.
+ 
+## 🛠️ Tehnoloogiad, mida õpin
+ 
+![SQL]
+![Python]
+![Git]
+ 
+- **Andmebaasid:** PostgreSQL, Supabase
+- **Programmeerimiskeeled:** Python (pandas, plotly)
+- **Visualiseerimine:** Power BI, Streamlit
+- **Versioonihaldus:** Git, GitHub
+ 
+## 📂 Projektid
+ 
+- [**DACA Portfoolio**](https://github.com/egelykink/daca-portfolio) - 11-nädalane õppeprojektid
+ 
+## 📫 Kontakt
+ 
+- **Email:** egely.kink@gmail.com
+ 
+---
+ 
+_"Data is the new oil, but analytics is the combustion engine." – Peter Sondergaard_
